@@ -1,0 +1,2 @@
+input_window_start,input_window_end,forecast_timestamp,last_known_wind_speed_40m,pred_lstm,pred_cnn_lstm,pred_cnn_gru,selected_action,selected_model,pred_drl_hybrid
+2014-01-01,2014-01-01 00:55:00,2014-01-01 01:00:00,1.66,1.6127596,1.6208441,1.6970596,0,LSTM,1.6127596
