@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wind Speed Forecasting Hybrid System
 
 This project builds a **5-minute ahead wind speed forecaster** for the 40 m level using:
@@ -68,3 +69,6 @@ The pipeline writes these artifacts to `outputs/`:
 - `decision_trace.csv`
 - `test_predictions.csv`
 - `new_data_predictions.csv`
+=======
+# Wind
+>>>>>>> eb69b85a27cab1e766fea3b9c2f16ad9150429ec
